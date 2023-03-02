@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vital-axiom-379408",
+  "private_key_id": "c5f6476e26f08f55b3552bf2a15fecb060bc3880",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUUFbrlRbzkfmR\nmBc6vLizMnO+6uLEwzNenR+UApsiCz38jYwIE9htbQvr1MNxDmmQ962vHZvQfxpD\nGDtsBU4x+6VPNVc2GUYBK4qHQIcXSD8cgL4jPwTy+0Jn5U0Ik9goPF8z8ADNcNH2\ngT4Lsu5fd/cTDt8ifmM8/cxrUooiee4KOpNbtLm2kZ5VtY/sAP3HaZTL5iW+gfbs\nQ5rvrVCVWTRrWgB/whxxnAMX/BF+f0p4kmwwLuXW7wPsFTr7qRR9GIg4RA+eicGz\ngvG9DQ72UwQMhEsIa9xYncWMd5mXT5AtlnMG+Xg999TDEB0NA2qW6qvaT/XnfNbg\nto8zj8Z/AgMBAAECggEAEs+WbqkesO7jSKA8gK0oqfBsthrEKfDuG4Jx27ZxkaGm\nZNlZGOSCJJgvlQ42aaj1ImIKQTXP/45CDkoiWJgwVkOUsGqosIpdEs9AcdjGfuFM\nFo6M+cXHmBUz03Sa+XWy9Ut5nF9E4smmlQ1zCU3SUQEosQidAXAmoGOPoU8QiRWy\nJIT+EuUX4GHwyJ6KofENa9TL+VVsY4rh5OO2fCVtIxIqItsTTlugS77XP9XVj3Qy\nAvOINr+SWEVg5C6brepAe84JUYl5f3lZuLgHpjsEQVlkN/bwSB1+GY/S1UTJLMJA\nZblHFlPEMZHPQFKp7mvj03HL2sW3MDOazHJFIqgmJQKBgQDDBGZDjC5BPXFEFUZE\nnxb8wfgY+8KyXoWT4FIZ1ct+hcddB6UsaIi662F8P9bhRuUMaOHaVwXy2ti3oI2J\nLRU/XADDsDEZU7HkTAODHzNi6s+qm80lGzt+Pbs+e2b8qfH31zZPjgJew/SAuYls\njeX2iDIQzMgxJCkPKVYwJJjCKwKBgQDCsTjyfYe1pkGtHhxBHfTcBVGKp11itDH+\nQEbLKOdz+jo9XJ3CwNzk7x4321nQwm2LhPpxx1g7WZla2bhpTqTM45VBpFZ7Ib9m\nYJS6XfmLJCWrWkTZLPlQdGBp2LiT9/ulkjYLD8s2Hm8zDvmTC7GllL2wPWtftM/x\ndOQniBCm/QKBgDB9HIw5A5s3Er2R6JnRUJ7h/7T+jCdbdy0Qfnlr/h/kVXCdIQWM\nrEqFkgSZvuzeer7+KQHn11PN9EqcAfUUn47UamA9o8efVsDj4Y+tp1I1/hJ2kKhk\nQAOgh7j+Z9n0y3QLL7bSIWa8pEOJXlD+aypELOaedDw7uHXLmmF4B/9nAoGAZyrS\nKm0qhK9dDgduoXLmVdDbrMWTTsJ922TkHrPGMkbepbV2Q8U/SHENajvqFB1zPwNw\nUup3brvD78h/WA48dfYDGY2j5gu0COQU68zwdzLoYyyqXwrd8iw5Ct20sXQu/UXF\nLYdo/3yRIFVHGwyPTlbLTaC+TTDbH+/5FpmbeWECgYA5PVRpgFNqFYuBwOkk5sq6\nrxP2Xk5xxwq5t4D9AABgu+EvPcASzM+B8NsCSoO4lL5tbRLGg/YpICY1pTl6PHPz\nMB+wbAT596zRhktB8Cf7WiVVGSCQUCn4sGK4PycLlHJ6p92YQwwSfT+/nn0d4c2i\nkj47Xi0bkxq3DZArfqfNSA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "messagesender@vital-axiom-379408.iam.gserviceaccount.com",
+  "client_id": "113084220810326581507",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/messagesender%40vital-axiom-379408.iam.gserviceaccount.com"
+}
